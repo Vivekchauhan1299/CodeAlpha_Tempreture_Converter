@@ -2,6 +2,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+   
 }
 
 body{
@@ -10,6 +11,7 @@ body{
   justify-content: center;
   align-items: center;
   min-height: 100vh;
+  background: linear-gradient(to left, #33ccff 0%, #ff99cc 100%)
    
 }
 
